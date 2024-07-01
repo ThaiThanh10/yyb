@@ -13,7 +13,7 @@ const HomePage = () => {
                                 <button className="max-w-[92px] aspect-[1] rounded-full">
                                     {" "}
                                     <img
-                                        src="src/assets/72077 1.svg"
+                                        src="images/72077 1.svg"
                                         alt=""
                                     />
                                 </button>
@@ -21,7 +21,7 @@ const HomePage = () => {
                                 <button className="max-w-[92px] aspect-[1] rounded-full">
                                     {" "}
                                     <img
-                                        src="src/assets/tele gram 1.svg"
+                                        src="images/tele gram 1.svg"
                                         alt=""
                                     />
                                 </button>
@@ -29,7 +29,7 @@ const HomePage = () => {
                         </div>
                         <div>
                             <img
-                                src="/src/assets/yin yang logo 2 1.svg"
+                                src="images/yin yang logo 2 1.svg"
                                 alt=""
                             />
                         </div>
@@ -151,7 +151,7 @@ const HomePage = () => {
                 <div className="bg-team2 h-[180vh] bg-no-repeat team2  mt-[-20%]">
                     <div className="flex justify-center items-center flex-col gap-y-8 h-full">
                         <img
-                            src="/src/assets/yin yang logo 2 1.svg"
+                            src="images/yin yang logo 2 1.svg"
                             alt=""
                         />
                         <button className="py-[40px] px-[110px] text-5xl rounded-full text-white bg-[#ff7562] border-solid border-[2px] border-[#fff]  hover:shadow-[0px_0px_50px_10px_#ff7562]  ">

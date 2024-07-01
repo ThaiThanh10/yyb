@@ -11,7 +11,7 @@ const Footer = () => {
                     <div className="max-w-[80px] aspect-[1] rounded-full">
                         {" "}
                         <img
-                            src="src/assets/72077 1.svg"
+                            src="images/72077 1.svg"
                             alt=""
                         />
                     </div>
@@ -19,7 +19,7 @@ const Footer = () => {
                     <div className="max-w-[80px] aspect-[1] rounded-full">
                         {" "}
                         <img
-                            src="src/assets/tele gram 1.svg"
+                            src="images/tele gram 1.svg"
                             alt=""
                         />
                     </div>
