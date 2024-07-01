@@ -4,11 +4,11 @@ export default {
     theme: {
         extend: {},
         backgroundImage: {
-            banner: `url('/public/Group 91.png')`,
-            intro: "url('/public/Group 92.png')",
-            roadmap: "url('/public/table 1.png')",
-            team: "url('/public/Group 94.png')",
-            team2: "url('/public/Layer 1 copy.png')",
+            banner: `url('/public/images/Group 91.png')`,
+            intro: "url('/public/images/Group 92.png')",
+            roadmap: "url('/public/images/table 1.png')",
+            team: "url('/public/images/Group 94.png')",
+            team2: "url('/public/images/Layer 1 copy.png')",
         },
     },
     plugins: [],

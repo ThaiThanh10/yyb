@@ -50,7 +50,7 @@ const HomePage = () => {
                         <div className="max-w-[50%]">
                             <img
                                 className="mt-8"
-                                src="public/Group 93.png"
+                                src="images/Group 93.png"
                                 alt=""
                             />
                         </div>
@@ -67,7 +67,7 @@ const HomePage = () => {
                             </button>
                             <img
                                 className="absolute bottom-[-3%] right-[-10%] max-w-[360px] "
-                                src="public/site wait 1.png"
+                                src="images/site wait 1.png"
                                 alt=""
                             />
                         </div>
@@ -81,7 +81,7 @@ const HomePage = () => {
                 <div>
                     <img
                         className="mt-[-9%]"
-                        src="/public/roadmap 1.png"
+                        src="/images/roadmap 1.png"
                         alt=""
                     />
                 </div>
@@ -96,7 +96,7 @@ const HomePage = () => {
                             <div className="bg-[#fff] p-[18px_14px] w-max rounded-3xl border-[2px] border-solid border-[#000] ">
                                 <img
                                     className="max-w-[270px]"
-                                    src="/public/Alex.png"
+                                    src="/images/Alex.png"
                                     alt=""
                                 />
                                 <h2 className="text-4xl font-normal leading-[52.94px] text-center mt-1">
@@ -109,7 +109,7 @@ const HomePage = () => {
                             <div className="bg-[#fff] p-[18px_14px] w-max rounded-3xl border-[2px] border-solid border-[#000] ">
                                 <img
                                     className="max-w-[270px] mx-auto"
-                                    src="/public/Nolan.png"
+                                    src="/images/Nolan.png"
                                     alt=""
                                 />
                                 <h2 className="text-4xl font-normal leading-[52.94px] text-center mt-1">
@@ -122,7 +122,7 @@ const HomePage = () => {
                             <div className="bg-[#fff] p-[18px_14px] w-max rounded-3xl border-[2px] border-solid border-[#000] ">
                                 <img
                                     className="max-w-[270px] mx-auto"
-                                    src="/public/lnhs.png"
+                                    src="/images/lnhs.png"
                                     alt=""
                                 />
                                 <h2 className="text-4xl font-normal leading-[52.94px] text-center mt-1">
@@ -135,7 +135,7 @@ const HomePage = () => {
                             <div className="bg-[#fff] p-[18px_14px] w-max rounded-3xl border-[2px] border-solid border-[#000] ">
                                 <img
                                     className="max-w-[270px] mx-auto"
-                                    src="/public/nemo.png"
+                                    src="/images/nemo.png"
                                     alt=""
                                 />
                                 <h2 className="text-4xl font-normal leading-[52.94px] text-center mt-1">
