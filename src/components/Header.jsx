@@ -7,7 +7,7 @@ const Header = () => {
                 <div className="flex justify-center items-center gap-x-8 ">
                     <img
                         className="max-w-[175px]"
-                        src="src/assets/yin yang logo 2 1.svg"
+                        src="/yin yang logo 2 1.svg"
                         alt=""
                     />
                     <div className="flex justify-center items-center gap-8">

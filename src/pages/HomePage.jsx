@@ -13,7 +13,7 @@ const HomePage = () => {
                                 <button className="max-w-[92px] aspect-[1] rounded-full">
                                     {" "}
                                     <img
-                                        src="src/assets/72077 1.svg"
+                                        src="/assets/72077 1.svg"
                                         alt=""
                                     />
                                 </button>
@@ -50,7 +50,7 @@ const HomePage = () => {
                         <div className="max-w-[50%]">
                             <img
                                 className="mt-8"
-                                src="/public/Group 93.png"
+                                src="public/Group 93.png"
                                 alt=""
                             />
                         </div>
@@ -67,7 +67,7 @@ const HomePage = () => {
                             </button>
                             <img
                                 className="absolute bottom-[-3%] right-[-10%] max-w-[360px] "
-                                src="/public/site wait 1.png"
+                                src="public/site wait 1.png"
                                 alt=""
                             />
                         </div>
