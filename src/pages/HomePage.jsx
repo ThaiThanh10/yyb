@@ -13,7 +13,7 @@ const HomePage = () => {
                                 <button className="max-w-[92px] aspect-[1] rounded-full">
                                     {" "}
                                     <img
-                                        src="/assets/72077 1.svg"
+                                        src="src/assets/72077 1.svg"
                                         alt=""
                                     />
                                 </button>
